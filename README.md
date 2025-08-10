@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomhermann-201&label=Profile%20views&color=0e75b6&style=flat" alt="tomhermann-201" /> </p>
 
-- 🔭 I’m currently working on **I'm currently working as a **Working Student in Software Development**, where my main role involves mobile app development. I spend most of my time building, testing, and designing native Android applications using **Kotlin**.**
+- 🔭**I'm currently working as a **Working Student in Software Development**, where my main role involves mobile app development. I spend most of my time building, testing, and designing native Android applications using **Kotlin**.**
 
-- 🌱 I’m currently learning **While my professional work is centered on app development, my academic and personal focus is increasingly on **Machine Learning**. My experience as a Data Analytics student at **Robert Bosch**, where I used **Python (Pandas, NumPy)** for data validation and analysis, sparked my interest in leveraging data to build intelligent systems. I dedicate my spare time to deepening my knowledge in ML through personal projects and research.**
+- 🌱**While my professional work is centered on app development, my academic and personal focus is increasingly on **Machine Learning**. My experience as a Data Analytics student at **Robert Bosch**, where I used **Python (Pandas, NumPy)** for data validation and analysis, sparked my interest in leveraging data to build intelligent systems. I dedicate my spare time to deepening my knowledge in ML through personal projects and research.**
 
 - 📫 How to reach me **tom-hermann.2@outlook.de**
 
