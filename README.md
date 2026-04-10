@@ -7,7 +7,7 @@
 
 - 🌱**While my professional work is centered on app development, my academic and personal focus is increasingly on **Machine Learning**. My experience as a Data Analytics student at **Robert Bosch**, where I used **Python (Pandas, NumPy)** for data validation and analysis, sparked my interest in leveraging data to build intelligent systems. I dedicate my spare time to deepening my knowledge in ML through personal projects and research.**
 
-- 📫 How to reach me **tom-hermann.2@outlook.de**
+- 📫 How to reach me Linkedin
 
 - 📄 Know about my experiences [www.test.de](www.test.de)
 
